@@ -40,3 +40,5 @@ Press the icon in your status bar.
 The options ‘On’ and ‘Off’ stand for the following:
 * ‘On’ means the fn-keys function as F1, F2 etc.
 * ‘Off’ means the fn-keys function for the mac special features: Brightness, Volume etc.
+
+![menu](https://github.com/Haffi921/macos-fn-toggle/blob/master/fn.screenshot.png?raw=true)
